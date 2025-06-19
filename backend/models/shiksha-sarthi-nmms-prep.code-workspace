@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../C++Programing"
+		},
+		{
+			"path": "../../../React"
+		},
+		{
+			"path": "../../../JSwithHerry"
+		},
+		{
+			"path": "../../../BitManupulation"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "shiksha-sarthi-nmms-prep"
+	}
+}
