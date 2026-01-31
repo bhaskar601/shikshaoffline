@@ -1,8 +1,5 @@
-# Welcome to your Lovable project
 
-## Project info
-
-## How can I edit this code?
+NMMSE website link is - https://shiksha-sarthi-nmms-prep.vercel.app
 
 There are several ways of editing your application.
 
